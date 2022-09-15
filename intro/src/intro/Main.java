@@ -42,7 +42,7 @@ public class Main {
 				System.out.println(krediler[i]);
 			}
 			
-			System.out.println("github kontrolü");
+			System.out.println("github kontrol");
 		}
 
 	}
